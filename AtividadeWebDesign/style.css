@@ -17,6 +17,7 @@
     color: rgb(228, 32, 228);
     position: absolute;
     margin-top: 35px;
+    font-family: 'Courier New', Courier, monospace; 
 }
 
 .auxiliar {
@@ -31,6 +32,7 @@
     margin-left: 655px;
     margin-top: 144px;
     height: 400px;
+    font-family: 'Courier New', Courier, monospace; 
 }
 
 .menu {
@@ -41,6 +43,7 @@
     margin-left: 965px;
     margin-top: 144px;
     height: 400px;
+    font-family: 'Courier New', Courier, monospace; 
 }
 
 .rodape {
@@ -51,5 +54,7 @@
     margin-top: 552px;
     width: 540px;
     height: 143px;
+    font-family: 'Courier New', Courier, monospace; 
+    
 }
     
